@@ -1,0 +1,25 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 17px;
+    background-color:#186a91;
+}
+.heading:hover{
+    font-size: large;
+    background-color: #001e51;
+}
+.link{
+    background-color: black;
+    border-radius: 10px;
+    width: 80px;
+    float: right !important;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px rgb(0, 0, 0);
+    margin-top:20px;
+} 
